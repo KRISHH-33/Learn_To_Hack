@@ -24,3 +24,6 @@ groups
 
 sudo uermod -aG sudo 
 #is used to add the new user to the sudo group which grants the user administrator priviliges
+
+Link to the folder with my screenshots of task completion:
+ https://drive.google.com/drive/folders/1xkUhZrwNqxcqbvLJQ_YRcUMLgtcKuaR6?usp=sharing
