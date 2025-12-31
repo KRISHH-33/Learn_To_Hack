@@ -1,0 +1,15 @@
+PART 1
+
+mkdir myFolder -> Stands for make directory. Used to create a new directory inside the current directory
+cd myFolder -> Stands for change directory. Used to change directory to the address that follows the command
+touch myFile.xyz -> used to create a new file.
+mv myFile.xyz yourFile.xyz -> used to move or rename files
+cd .. -> to step out of the directory
+rm -r myFolder -> used to remove folder and files contained within recursively.
+
+PART 2
+
+sudo useradd username -> creates a new user
+groups username -> lists groups the user is in
+sudo usermod -aG sudo username -> adds user to sudo group. a stands for append and G stands for Group
+sudo passwd username -> prompts to create a new password for the user
