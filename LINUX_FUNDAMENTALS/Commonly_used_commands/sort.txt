@@ -1,0 +1,13 @@
+The sort command is used to sort lines in a text file or standard input in Linux and Unix-based operating systems. It can be used to sort lines in ascending or descending order and to perform other sorting operations, such as sorting by fields or using a custom sorting order.
+
+The sort command is a powerful and flexible tool for working with text files in Linux and Unix-based operating systems. By understanding how to use the sort command effectively, you can sort lines in text files, sort lines based on specific fields, and perform other sorting operations.
+
+These commands can help you organize and analyze data and perform other file manipulation tasks.
+
+Flags:
+1. -b, --ignore-leading-blanks: Ignores leading spaces or tabs when sorting, focusing only on the actual data.
+2. -d, --dictionary-order: Considers only blanks and alphanumeric characters during sorting, ignoring punctuation and special characters.
+3. -g, --general-numeric-sort: Compares values based on their general numerical value, including decimal and exponential formats.
+4. -h, --human-numeric-sort: Sorts numbers in human-readable formats such as 2K, 1G, or 500M.
+5. -R, --random-sort: Randomly shuffles lines while grouping identical lines together.
+
